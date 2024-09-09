@@ -1,0 +1,14 @@
+body {
+    background-color: #121212; /* Warna latar belakang gelap */
+    color: #ffffff; /* Warna teks putih */
+    font-family: Arial, sans-serif; /* Font yang digunakan */
+    text-align: center; /* Teks di tengah */
+}
+
+.running-text {
+    margin: 20px 0; /* Margin atas dan bawah */
+}
+
+.content h1 {
+    font-size: 2em; /* Ukuran font untuk Hello World */
+}
